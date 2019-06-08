@@ -9,7 +9,6 @@
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "githubUrl": "https://github.com/Andriiuxa/whattocook",
-    "entryPoint": "./src/App.js",
     "primaryColor": "#ffb80e",
     "splash": {
       "image": "./assets/chinesetakeaway.png",
