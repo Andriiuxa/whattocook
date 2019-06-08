@@ -4,24 +4,22 @@
     "slug": "WhatToCook",
     "privacy": "public",
     "sdkVersion": "32.0.0",
-    "platforms": [
-      "ios",
-      "android"
-    ],
+    "platforms": ["ios", "android"],
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
+    "githubUrl": "https://github.com/Andriiuxa/whattocook",
+    "entryPoint": "./src/App.js",
+    "primaryColor": "#ffb80e",
     "splash": {
-      "image": "./assets/splash.png",
+      "image": "./assets/chinesetakeaway.png",
       "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
+      "backgroundColor": "#ffb80e"
     },
     "updates": {
       "fallbackToCacheTimeout": 0
     },
-    "assetBundlePatterns": [
-      "**/*"
-    ],
+    "assetBundlePatterns": ["**/*"],
     "ios": {
       "supportsTablet": true
     }
